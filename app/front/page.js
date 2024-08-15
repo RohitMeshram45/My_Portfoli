@@ -35,7 +35,7 @@ const Front = () => {
             </div>
            <div whileHover={{ scale: [null, 1, 1.02] }}
            transition={{ duration: 0.4 }} className='flex justify-center items-center'>
-            <img  className="hover:bg-slate-100 flex max-sm:hidden hover:shadow-2xl  max-sm:h-[340px] object-cover   rounded h-[340px] p-3 bg-contain sm:h-[340px]" src='./images/man1.jpeg' />
+            <img  className="hover:bg-slate-100 flex max-sm:hidden hover:shadow-2xl  max-sm:h-[340px] object-cover   rounded h-[340px] p-3 bg-contain sm:h-[340px]" src="https://media.istockphoto.com/id/1147195672/photo/focused-developer-coding-on-computer-monitors-working-late-in-office.jpg?s=2048x2048&w=is&k=20&c=RlqlFsKnGBCjV10F2JnWJsHXoZwDnS4GvQ5hecrgQBU=" />
             </div>
         </section>
         </>
